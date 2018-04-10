@@ -1,0 +1,14 @@
+{
+  "name": "cargenerator",
+  "version": "1.0.0",
+  "description": "Generate car id's with country code",
+  "main": "generator.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "uuid": "^3.2.1"
+  }
+}
